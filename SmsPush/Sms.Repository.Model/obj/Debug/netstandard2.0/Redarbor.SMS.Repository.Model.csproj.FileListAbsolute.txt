@@ -1,0 +1,8 @@
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/bin/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.deps.json
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/bin/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.dll
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/bin/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.pdb
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.csprojAssemblyReference.cache
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.AssemblyInfoInputs.cache
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.AssemblyInfo.cs
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.dll
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/Debug/netstandard2.0/Redarbor.SMS.Repository.Model.pdb

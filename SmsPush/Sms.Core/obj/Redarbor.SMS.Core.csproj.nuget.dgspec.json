@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj",
+        "projectName": "Redarbor.SMS.Core",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

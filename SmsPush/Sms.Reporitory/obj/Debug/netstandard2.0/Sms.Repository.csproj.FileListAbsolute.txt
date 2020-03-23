@@ -1,0 +1,3 @@
+/Users/mario/Projects/SmsPush/Sms.Reporitory/obj/Debug/netstandard2.0/Sms.Repository.csprojAssemblyReference.cache
+/Users/mario/Projects/SmsPush/Sms.Reporitory/obj/Debug/netstandard2.0/Sms.Repository.AssemblyInfoInputs.cache
+/Users/mario/Projects/SmsPush/Sms.Reporitory/obj/Debug/netstandard2.0/Sms.Repository.AssemblyInfo.cs

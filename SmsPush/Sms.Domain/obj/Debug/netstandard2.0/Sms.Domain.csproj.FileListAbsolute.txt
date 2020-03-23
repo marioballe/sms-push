@@ -1,0 +1,2 @@
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Domain/obj/Debug/netstandard2.0/Sms.Domain.AssemblyInfoInputs.cache
+/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Domain/obj/Debug/netstandard2.0/Sms.Domain.AssemblyInfo.cs

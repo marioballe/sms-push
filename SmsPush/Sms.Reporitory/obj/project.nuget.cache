@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KmvEsurczGpw4K72Jyxe/LFWPsV/l/J3gAbdz5PEbvT8ryJCQsq9RigHawhqyxQCIs4rFs/R/kl8fvNNZ5NUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\MAIN_Project\\Redarbor.SMSVerification\\Redarbor.SMS.Reporitory\\Redarbor.SMS.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

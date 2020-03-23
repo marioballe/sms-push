@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Logic/Redarbor.SMS.Logic.csproj": {}
+  },
+  "projects": {
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj",
+        "projectName": "Redarbor.SMS.Core",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Logic/Redarbor.SMS.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Logic/Redarbor.SMS.Logic.csproj",
+        "projectName": "Redarbor.SMS.Logic",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Logic/Redarbor.SMS.Logic.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/Redarbor.SMS.Model.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/Redarbor.SMS.Model.csproj"
+              },
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/Redarbor.SMS.Provider.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/Redarbor.SMS.Provider.csproj"
+              },
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/Redarbor.SMS.Repository.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/Redarbor.SMS.Repository.csproj"
+              },
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/Redarbor.SMS.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/Redarbor.SMS.Model.csproj",
+        "projectName": "Redarbor.SMS.Model",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/Redarbor.SMS.Model.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/Redarbor.SMS.Provider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/Redarbor.SMS.Provider.csproj",
+        "projectName": "Redarbor.SMS.Provider",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/Redarbor.SMS.Provider.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Provider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Core/Redarbor.SMS.Core.csproj"
+              },
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/Redarbor.SMS.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/Redarbor.SMS.Repository.csproj",
+        "projectName": "Redarbor.SMS.Repository",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/Redarbor.SMS.Repository.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Reporitory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj": {
+                "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj",
+        "projectName": "Redarbor.SMS.Repository.Model",
+        "projectPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/Redarbor.SMS.Repository.Model.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Downloads/Redarbor.SMSVerification/Redarbor.SMS.Repository.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

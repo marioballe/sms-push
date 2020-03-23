@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUlmfW7OgBZzHazTxaojJHwVOZ8DFXEE5ZvQeCFHlLTF2MQVPxus9y+W4DyH2BSmXIOXu1op5l8fXBSpiNHcKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\MAIN_Project\\Redarbor.SMSVerification\\Redarbor.SMS.Logic\\Redarbor.SMS.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres Garcia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Andres Garcia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Andres Garcia\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Andres Garcia\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

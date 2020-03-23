@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BB5EF79B-000D-4C75-B2C8-60FFDB655D3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sms.Repository.Model/Operations.cs">
+    <Files>
+      <File FileName="Sms.Reporitory/Repositories/IConsumerTokenRepository.cs" Line="1" Column="22" />
+      <File FileName="Sms.Repository.Model/Operations.cs" Line="9" Column="43" />
+      <File FileName="Sms.Reporitory/Repositories/IOperationRepository.cs" />
+      <File FileName="Sms.Repository.Model/OperationSmsProviders.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmsPush" expanded="True">
+            <Node name="0-Presentation" expanded="True" />
+            <Node name="1-Domain" expanded="True" />
+            <Node name="3-Common" expanded="True" />
+            <Node name="4-Repository" expanded="True">
+              <Node name="Sms.Repository.Model" expanded="True">
+                <Node name="Operations.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.0-Presentation.Sms.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
